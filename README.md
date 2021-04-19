@@ -2,6 +2,7 @@
 Senior Capstone Project Final Deliverable
 Exists as a [Client](http://github.com/connellboyce/road.io-client) and [Server](http://github.com/connellboyce/road.io-server) application.
 - For specific documentation on the client and server applications, visit their respective repositories.
+<br/><br/>
 
 ## Table of Contents
 1. [Team Members](#team-members)
@@ -12,11 +13,13 @@ Exists as a [Client](http://github.com/connellboyce/road.io-client) and [Server]
 5. [Application Snapshots](#application-snapshots)
 6. [Project Report](#project-report)
 7. [Team Presentation](#team-presentation)
+<br/><br/>
 
 ## Team Members
 - [Connell Boyce](https://github.com/connellboyce) - Senior, Information Sciences and Technology: Design and Development Option
 - [Kellia Cockerill](https://github.com/kelliacockerill) - 
 - [Caden Martz](https://github.com/CadenRM) - 
+<br/><br/>
 
 ## Course Information
 ##### Pennsylvania State University <br/> College of Information Sciences and Technology <br/> Course Name: IST 440W <br/> Instructor:  Kaamran Raahemifar <br/> Semester: Spring 2021
