@@ -26,6 +26,8 @@ Exists as a [Client](http://github.com/connellboyce/road.io-client) and [Server]
 <br/>
 
 ## Gantt Chart
+##### The following diagram illustrates the Gantt chart for the development of Road.io
+<br/><br/>
 
 ## Work Breakdown Structure
 ##### The following diagram illustrates the work breakdown structure of Road.io
