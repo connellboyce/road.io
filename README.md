@@ -20,6 +20,7 @@ Exists as a [Client](http://github.com/connellboyce/road.io-client) and [Server]
 
 ## Course Information
 ##### Pennsylvania State University <br/> College of Information Sciences and Technology <br/> Course Name: IST 440W <br/> Instructor:  Kaamran Raahemifar <br/> Semester: Spring 2021
+<br/><br/>
 
 ## Gantt Chart
 
