@@ -17,8 +17,8 @@ Exists as a [Client](http://github.com/connellboyce/road.io-client) and [Server]
 
 ## Team Members
 - [Connell Boyce](https://github.com/connellboyce) - Senior, Information Sciences and Technology: Design and Development Option
-- [Kellia Cockerill](https://github.com/kelliacockerill) - 
-- [Caden Martz](https://github.com/CadenRM) - 
+- [Kellia Cockerill](https://github.com/kelliacockerill) - Senior, Information Sciences and Technology: Design and Development Option
+- [Caden Martz](https://github.com/CadenRM) - Senior, Information Sciences and Technology: Design and Development Option
 <br/><br/>
 
 ## Course Information
