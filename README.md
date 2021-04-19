@@ -8,7 +8,7 @@ Exists as a [Client](http://github.com/connellboyce/road.io-client) and [Server]
 2. [Gantt Chart](#gantt-chart)
 3. [Work Breakdown Structure](#work-breakdown-structure)
 4. [Functional Decomposition](#functional-decomposition)
-5. [Application Snapshots](#project-snapshots)
+5. [Application Snapshots](#application-snapshots)
 6. [Project Report](#project-report)
 7. [Team Presentation](#team-presentation)
 
