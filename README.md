@@ -56,7 +56,8 @@ Exists as a [Client](http://github.com/connellboyce/road.io-client) and [Server]
 
 ## Project Report
 ##### Click the link below to view the Road.io final report.
-[![cover](images/cover.png)](https://docs.google.com/document/d/1QmT2TQta881Kpc4e0IzWkxDDqwu1rW91YLVgtYXjba0/edit?usp=sharing)
+[Road.io Technical Report](https://docs.google.com/document/d/1QmT2TQta881Kpc4e0IzWkxDDqwu1rW91YLVgtYXjba0/edit?usp=sharing)
 <br/><br/>
 
 ## Team Presentation
+[Road.io Final Presentation](https://psu.mediaspace.kaltura.com/media/FINAL+PRESENTATION+ROAD.IO+IST440W/1_fpi60lh8)
